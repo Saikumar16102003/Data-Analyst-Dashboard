@@ -38,3 +38,7 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the total
 
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
+- <a herf = "<img width="1510" height="831" alt="project screen short" src="https://github.com/user-attachments/assets/0560f1e8-6c7f-4c52-9852-87cd6d0e5a49" />
+">View Dashboard </a>
+
+
